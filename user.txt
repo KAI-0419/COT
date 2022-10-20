@@ -1,0 +1,6 @@
+#user info
+#Fri Oct 07 14:50:27 KST 2022
+pw=Pass-01
+name=강현
+id=User-01
+age=23
